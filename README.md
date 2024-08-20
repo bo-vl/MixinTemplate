@@ -1,2 +1,2 @@
-#intellij 
+# intellij 
 Tasks > forgegradle > run setupDecompWorkspace
